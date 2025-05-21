@@ -1,6 +1,5 @@
-# Data Stack 
-## _A simple data architecture using Airflow, Airbyte and Spark_
----
+# Case study of using Docker to create a data engineering architecture
+
 ## Features
 
 - Airflow as scheduler
@@ -22,7 +21,5 @@ To run the data stack you just need to:
 ```sh
 docker compose --profile profilenameincmopose up -d
 ```
----
-## Notes
-You can read the full documentation about data stack on my [Medium Profile](https://medium.com/@isochoa95) 
+
 
